@@ -37,7 +37,7 @@ Sourced from the CD-quality samples. I attempted to be as faithful as possible o
 	*	Bungie may have split one stereo sample into two mono sounds (i.e., shotgun)
 	*	Multiple samples were so similar that I genuinely couldn’t tell which one Bungie used (i.e., .44 magnum)
 
-## Marathon Infinity (1996) Remixes Extended & Extra ##
+## Marathon Infinity (1996) Remixes (Extended & Extras) ##
 These contain cases of the following:
 * Longer versions of the same samples from a few ambient sounds
 * Extra sounds from the same sets of samples
