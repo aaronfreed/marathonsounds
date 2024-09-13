@@ -5,7 +5,7 @@ Nearly all the known sources for *Marathon* and *Marathon Infinity*’s sounds a
 
 I’ve also posted [detailed information about my remastering process](https://aaronfreed.github.io/remastering.html) that may be of interest; it contains a few unconventional steps that attempt to compensate for missing upper frequencies.
 
-The folders above do not sort in alphabetical order. I hypothesize that GitHub doesn’t strip the trailing slash when alphabetizing directory names, but I have absolutely no idea if that’s correct.
+The folders above do not sort in alphabetical order. I hypothesize that GitHub doesn’t strip the trailing slash when alphabetizing directory names, but I have absolutely no idea if that’s correct. I have [reported this as a bug](https://github.com/orgs/community/discussions/133320).
 
 ## Marathon (1994) / Marathon Infinity (1996) ##
 The sounds from *Marathon* (1994) and *Marathon Infinity* (1996), respectively. *Marathon 2: Durandal* (1995) doesn’t have a folder of its own because every single sound it used reappeared in *Marathon Infinity*, which added a few more.
